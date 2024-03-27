@@ -1,12 +1,15 @@
-﻿using System;
+﻿using DevExpress.Data.Native;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace POINT.ViewModel
 {
-    internal class MainViewModel
+    internal class MainViewModel : BindingHelper
     {
+        
     }
 }

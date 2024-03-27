@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PFoAbwYU0hZ2TkkrE/E3Lyoj92Cel0gK58n1kwyRfhR2mm3/9AX6LRakPd9B7Mev5NoQzAhNj2SYn9CikUsgZA==",
+  "dgSpecHash": "HYmAtzswjwowdwtzXyyKUU1WSkcDnxHgeQKX15w86ffgOvTAiwr2KNljmj9O8zG3a4t0mNU8NBcfihsk4rRAWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alepi\\source\\repos\\POINT\\POINT\\POINT.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alepi\\.nuget\\packages\\devexpress.data\\23.2.5\\devexpress.data.23.2.5.nupkg.sha512",
     "C:\\Users\\alepi\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
     "C:\\Users\\alepi\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
     "C:\\Users\\alepi\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512",

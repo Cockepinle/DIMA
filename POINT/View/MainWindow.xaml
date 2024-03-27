@@ -8,7 +8,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+            <StackPanel Margin="10,10,673,353" RenderTransformOrigin="-0.458,0.676">
+            <GroupBox Header="Size"/>
+            <RadioButton Content="Small"/>
+            <RadioButton Content="Medium"/>
+            <RadioButton Content="Large"/>
+        </StackPanel>
+        <materialDesign:ColorPicker HorizontalAlignment="Left" Margin="18,270,0,0" VerticalAlignment="Top" Height="170" Width="196"/>
+        <Canvas Margin="316,10,10,10"/>
+        <StackPanel Margin="146,10,509,330">
+            <GroupBox Header="Shapes"/>
+            <RadioButton Content="Shedding"/>
+            <RadioButton Content="Circle"/>
+            <RadioButton Content="Square"/>
+        </StackPanel>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="32,156,0,0" VerticalAlignment="Top" Width="142" Height="39"/>
         
-
     </Grid>
 </Window>

@@ -27,3 +27,4 @@ C:\Users\alepi\source\repos\POINT\POINT\obj\Debug\net6.0-windows\refint\POINT.dl
 C:\Users\alepi\source\repos\POINT\POINT\obj\Debug\net6.0-windows\POINT.pdb
 C:\Users\alepi\source\repos\POINT\POINT\obj\Debug\net6.0-windows\POINT.genruntimeconfig.cache
 C:\Users\alepi\source\repos\POINT\POINT\obj\Debug\net6.0-windows\ref\POINT.dll
+C:\Users\alepi\source\repos\POINT\POINT\bin\Debug\net6.0-windows\DevExpress.Data.v23.2.dll
